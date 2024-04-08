@@ -1,4 +1,4 @@
-package com.marlon.customer;
+package com.marlon.fraud.customer;
 
 public record CustomerRegistrationRequest(
         String firstName,

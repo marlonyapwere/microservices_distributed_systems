@@ -1,4 +1,4 @@
-package com.marlon.customer;
+package com.marlon.fraud.customer;
 
 import org.springframework.stereotype.Service;
 
